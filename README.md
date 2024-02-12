@@ -1,3 +1,5 @@
+![Alt text](https://github.com/LiderTeknolojiGelistirme/XR4HRC/blob/main/Media/Poster/XR4HRC%20POSTER.png?raw=true)
+
 # XR4HRC - Excellence in Extended Reality for Human-Robot Collaboration
 
 Welcome to the XR4HRC project repository, a visionary endeavor set to redefine human-robot collaboration through the power of Extended Reality (XR). At this juncture, we are in the pivotal design phase of developing an XR application that promises to transform training within the cutting-edge environment of IFARLAB's robotic lab.
