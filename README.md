@@ -17,11 +17,11 @@ XR4HRC aims to craft an immersive XR training platform, fostering an intuitive a
 
 ## Current Status
 
-Our team is dedicated to finalizing the application design, defining system requirements, and developing the overarching system architecture. The curriculum is also being refined in tandem with an ongoing analysis of the robotic lab environment.
+The MVP applications are developed for both VR and AR applications! 
 
 ## Next Steps
 
-Upon completing the design phase, we will commence the development of the application, adhering to the outlined specifications and leveraging the capabilities of the Unity Engine.
+Dissemination activities.
 
 ## License
 
