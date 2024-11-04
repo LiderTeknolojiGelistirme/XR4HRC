@@ -1,3 +1,5 @@
+You can find the whole Unity project under release section for both VR and AR applications.
+
 ![Alt text](https://github.com/LiderTeknolojiGelistirme/XR4HRC/blob/main/Media/Poster/XR4HRC%20POSTER.png?raw=true)
 
 # XR4HRC - Excellence in Extended Reality for Human-Robot Collaboration
